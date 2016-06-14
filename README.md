@@ -1,5 +1,12 @@
 # jpfaq
-Jacco van der Post's TYPO3 jpfaq extension, updated for TYPO3 7
+Jacco van der Post's TYPO3 jpfaq extension, updated so that it can also be used in TYPO3 7. This version is compatible with TYPO3 versions 6.2 - 7.6.9.
+
+##Chages made to the original jpfaq extension##
+1. Correction of namspaces that caused errors in TYPO3 7 due to inconsistency, for example "JpFaq" instead of "Jpfaq"
+2. Update of how the wizards are added in TCA configuration
+3. Update of how the plugin category selection is defined in the Flexform
+4. Update of how Flash Messages are added in the controllers
+6. Removal of PHP end tags
 
 ##How to use extension in your TYPO3 installation##
 Because I find the original instructions less than clear, here are some that I rewrote:
