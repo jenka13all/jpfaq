@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'jpfaq'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_jpfaq_domain_model_question">Question</label>
+			<label index="tx_jpfaq_domain_model_question.question">Question</label>
+			<label index="tx_jpfaq_domain_model_question.answer">Answer</label>
+			<label index="tx_jpfaq_domain_model_question.category">Category</label>
+			<label index="tx_jpfaq_domain_model_category">Category</label>
+			<label index="tx_jpfaq_domain_model_category.category">Category</label>
+      <label index="flexform.sheet_main">Configuration</label>
+      <label index="flexform.selectCategory">Choose category</label>
+      <label index="flexform.selectPid">Choose page or folder with records</label>
+    <label index="flexform.showSearch">Show searchbox (searches all questions on page)</label>
+		</languageKey>
+		<languageKey index="ru" type="array">
+			<label index="tx_jpfaq_domain_model_question">Вопрос</label>
+			<label index="tx_jpfaq_domain_model_question.question">Вопрос</label>
+			<label index="tx_jpfaq_domain_model_question.answer">Ответ</label>
+			<label index="tx_jpfaq_domain_model_question.category">Категория</label>
+			<label index="tx_jpfaq_domain_model_category">Категория</label>
+			<label index="tx_jpfaq_domain_model_category.category">Категория</label>
+      <label index="flexform.sheet_main">Конфигурация</label>
+      <label index="flexform.selectCategory">Выберите категорию</label>
+      <label index="flexform.selectPid">Выберите страницу с записями jpFAQ</label>
+		</languageKey>
+    <languageKey index="nl" type="array">
+			<label index="tx_jpfaq_domain_model_question">Vraag</label>
+			<label index="tx_jpfaq_domain_model_question.question">Vraag</label>
+			<label index="tx_jpfaq_domain_model_question.answer">Antwoord</label>
+			<label index="tx_jpfaq_domain_model_question.category">Categorie</label>
+			<label index="tx_jpfaq_domain_model_category">Categorie</label>
+			<label index="tx_jpfaq_domain_model_category.category">Categorie</label>
+      <label index="flexform.sheet_main">Configuratie</label>
+      <label index="flexform.selectCategory">Kies categorie</label>
+      <label index="flexform.selectPid">Kies pagina of folder met records</label>
+        <label index="flexform.showSearch">Toon zoekbox (doorzoekt alle vragen op pagina)</label>
+		</languageKey>
+    <languageKey index="fr" type="array">
+			<label index="tx_jpfaq_domain_model_question">Question</label>
+			<label index="tx_jpfaq_domain_model_question.question">Question</label>
+			<label index="tx_jpfaq_domain_model_question.answer">Résponse</label>
+			<label index="tx_jpfaq_domain_model_question.category">Catégorie</label>
+			<label index="tx_jpfaq_domain_model_category">Catégorie</label>
+			<label index="tx_jpfaq_domain_model_category.category">Catégorie</label>
+      <label index="flexform.sheet_main">Configuration</label>
+      <label index="flexform.selectCategory">Choix de la catégorie</label>
+      <label index="flexform.selectPid">Page contenant des enregistrements</label>
+		</languageKey>
+    <languageKey index="de" type="array">
+			<label index="tx_jpfaq_domain_model_question">Frage</label>
+			<label index="tx_jpfaq_domain_model_question.question">Frage</label>
+			<label index="tx_jpfaq_domain_model_question.answer">Antwort</label>
+			<label index="tx_jpfaq_domain_model_question.category">Kategorie</label>
+			<label index="tx_jpfaq_domain_model_category">Kategorie</label>
+			<label index="tx_jpfaq_domain_model_category.category">Kategorie</label>
+      <label index="flexform.sheet_main">Konfiguration</label>
+      <label index="flexform.selectCategory">Kategorie wählen</label>
+      <label index="flexform.selectPid">Seite oder Ordner mit Records</label>
+		</languageKey>
+	</data>
+</T3locallang>

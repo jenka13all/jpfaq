@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+    <meta type="array">
+        <type>module</type>
+        <description>Language labels for the jpFAQ extension in the FRONTEND</description>
+    </meta>
+    <data type="array">
+        <languageKey index="default" type="array">
+            <label index="tx_jpfaq_domain_model_question">Question</label>
+            <label index="tx_jpfaq_domain_model_question.question">question</label>
+            <label index="tx_jpfaq_domain_model_question.answer">answer</label>
+            <label index="tx_jpfaq_domain_model_question.category">category</label>
+            <label index="tx_jpfaq_domain_model_category">Category</label>
+            <label index="tx_jpfaq_domain_model_category.category">category</label>
+            <label index="showAll">Show all answers</label>
+            <label index="hideAll">Hide all answers</label>
+            <label index="searchboxLegend">Quick search FAQ</label>
+            <label index="searchboxLabel">Quick search FAQ</label>
+        </languageKey>
+        <languageKey index="ru" type="array">
+            <label index="tx_jpfaq_domain_model_question">Вопрос</label>
+            <label index="tx_jpfaq_domain_model_question.question">вопрос</label>
+            <label index="tx_jpfaq_domain_model_question.answer">ответ</label>
+            <label index="tx_jpfaq_domain_model_question.category">категория</label>
+            <label index="tx_jpfaq_domain_model_category">Категория</label>
+            <label index="tx_jpfaq_domain_model_category.category">категория</label>
+            <label index="showAll">Показать все ответы</label>
+            <label index="hideAll">Cкрыть все ответы</label>
+        </languageKey>
+        <languageKey index="nl" type="array">
+            <label index="tx_jpfaq_domain_model_question">Vraag</label>
+            <label index="tx_jpfaq_domain_model_question.question">Vraag</label>
+            <label index="tx_jpfaq_domain_model_question.answer">Antwoord</label>
+            <label index="tx_jpfaq_domain_model_question.category">Categorie</label>
+            <label index="tx_jpfaq_domain_model_category">Categorie</label>
+            <label index="tx_jpfaq_domain_model_category.category">Categorie</label>
+            <label index="showAll">Toon alle antwoorden</label>
+            <label index="hideAll">Verberg alle antwoorden</label>
+            <label index="searchboxLegend">Snel zoeken FAQ</label>
+            <label index="searchboxLabel">Snel zoeken FAQ</label>
+        </languageKey>
+        <languageKey index="fr" type="array">
+            <label index="tx_jpfaq_domain_model_question">Question</label>
+            <label index="tx_jpfaq_domain_model_question.question">Question</label>
+            <label index="tx_jpfaq_domain_model_question.answer">Résponse</label>
+            <label index="tx_jpfaq_domain_model_question.category">Catégorie</label>
+            <label index="tx_jpfaq_domain_model_category">Catégorie</label>
+            <label index="tx_jpfaq_domain_model_category.category">Catégorie</label>
+            <label index="showAll">Afficher toutes les résponses</label>
+            <label index="hideAll">Cacher toutes les résponses</label>
+            <label index="searchboxLegend">Recherche rapide FAQ</label>
+            <label index="searchboxLabel">Recherche rapide FAQ</label>
+        </languageKey>
+        <languageKey index="de" type="array">
+            <label index="tx_jpfaq_domain_model_question">Frage</label>
+            <label index="tx_jpfaq_domain_model_question.question">Frage</label>
+            <label index="tx_jpfaq_domain_model_question.answer">Antwort</label>
+            <label index="tx_jpfaq_domain_model_question.category">Kategorie</label>
+            <label index="tx_jpfaq_domain_model_category">Kategorie</label>
+            <label index="tx_jpfaq_domain_model_category.category">Kategorie</label>
+            <label index="showAll">Einblenden aller Antworten</label>
+            <label index="hideAll">Ausblenden aller Antworten</label>
+            <label index="searchboxLegend">Schnellsuche FAQ</label>
+            <label index="searchboxLabel">Schnellsuche FAQ</label>
+        </languageKey>
+    </data>
+</T3locallang>

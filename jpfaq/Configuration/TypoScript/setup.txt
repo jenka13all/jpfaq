@@ -1,0 +1,16 @@
+plugin.tx_jpfaq {
+  settings { 
+	view {
+		templateRootPath = {$plugin.tx_jpfaq.view.templateRootPath}
+		partialRootPath = {$plugin.tx_jpfaq.view.partialRootPath}
+		layoutRootPath = {$plugin.tx_jpfaq.view.layoutRootPath}
+	}
+    includeCss {
+        file1.path=EXT:Resources/Public/Css/jpfaq.css
+        file1.mediatype=all
+        }
+    includeJquery.path=EXT:Resources/Public/Js/jquery-2.1.1.min.js
+    includeQuicksearch.path=EXT:Resources/Public/Js/quicksearch.js
+   }
+}
+
