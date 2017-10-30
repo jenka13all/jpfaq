@@ -86,6 +86,7 @@ $TCA['tx_jpfaq_domain_model_question'] = array(
 			'label'		=> 'LLL:EXT:jpfaq/Resources/Private/Language/locallang_db.xml:tx_jpfaq_domain_model_question.category',
 			'config'	=> array(
 				'type' => 'select',
+				'renderType' => 'selectSingle',
 				'foreign_table' => 'tx_jpfaq_domain_model_category',
 				'MM' => 'tx_jpfaq_question_category_mm',
                             'foreign_sortby' => 'sorting',
